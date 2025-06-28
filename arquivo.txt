@@ -1,5 +1,4 @@
-lalalalalaa
-dddd
-ddd
-dd
-d
+git init 
+git status
+git add nomearquivo
+git commit -m "msg"
