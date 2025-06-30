@@ -1,5 +1,7 @@
-git init 
+git ind
 git status
 git add nomearquivo
 git commit -m "msg"
 ggg
+git tal tal 
+teste 123
